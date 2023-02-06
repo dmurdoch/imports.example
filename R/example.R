@@ -1,2 +1,4 @@
 
-example <- function(x = rlang::abort("ouch")) {}
+example <- function() {
+  rlang::abort("ouch")
+}
