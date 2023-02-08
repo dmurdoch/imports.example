@@ -8,7 +8,7 @@ Just abort!
 Does nothing useful.
 }
 \usage{
-example(x = rlang::abort("ouch"))
+example(x)
 }
 \arguments{
 \item{x}{the argument}

@@ -1,4 +1,5 @@
 
-example <- function(x = rlang::abort("ouch")) {
+example <- function(x) {
+  loadNamespace("rlang")
   x
 }

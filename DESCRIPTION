@@ -1,8 +1,8 @@
 Package: imports.example
 Type: Package
 Title: What the Package Does (Title Case)
-Version: 0.0.1
-Author: Kevin Ushey
+Version: 0.0.2
+Author: Kevin Ushey and Duncan Murdoch
 Maintainer: Kevin Ushey <kevinushey@gmail.com>
 Description: More about what it does (maybe more than one line)
     Use four spaces when indenting paragraphs within the Description.
